@@ -146,7 +146,7 @@ The project report also reports improved image stability with the 2-axis gimbal 
 ### Reported Performance
 
 * Total system weight: ~1163 g
-* Thrust-to-weight ratio: ~2.4:1
+* Thrust-to-weight ratio: ~2:1
 * Reported gimbal stabilization efficiency: 82–91%
 * Usable video frames without gimbal: 45%
 * Usable video frames with gimbal: 92%
@@ -171,7 +171,7 @@ The complete project report is available here:
 
 The project and testing video are also available on my personal portfolio website.
 
-**[Visit My Portfolio](YOUR_PORTFOLIO_LINK)**
+**[Visit My Portfolio](https://shubhamsirsat.in/)**
 
 ## 🚀 Future Scope
 
